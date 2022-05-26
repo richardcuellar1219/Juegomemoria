@@ -10,7 +10,7 @@ new Vue({
       "./img/PITB.jpg",
       "./img/PITA2.jpg",
       "./img/PITC.jpg",
-      "./img/ppj.jpg",
+      "./img/PPJ.jpg",
       "./img/6M.jpg",
       "./img/1M.jpg",
     ],
