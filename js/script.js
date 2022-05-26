@@ -7,12 +7,12 @@ new Vue({
   data: () => ({
     // La ruta de las imágenes. Puede ser relativa o absoluta
     imagenes: [
-      "./img/traspa.svg",
-      "./img/3481.svg",
-      "./img/G10.svg",
-      "./img/mask.svg",
-      "./img/E3.svg",
-      "./img/peecy.svg",
+      "./img/PITB.jpg",
+      "./img/PITA2.jpg",
+      "./img/PITC.jpg",
+      "./img/ppj.jpg",
+      "./img/6M.jpg",
+      "./img/1M.jpg",
     ],
     memorama: [],
     // Útiles para saber cuál fue la carta anteriormente seleccionada
